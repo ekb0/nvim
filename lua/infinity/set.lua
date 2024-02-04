@@ -24,3 +24,4 @@ vim.opt.mouse = 'a'
 
 vim.opt.background = 'light'
 
+vim.g['netrw_liststyle']=3
